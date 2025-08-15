@@ -1,7 +1,7 @@
 #🌟 Sample Portfolio Website
 🔗 Live Demo
 
-Check it here: boisterous-dango-ac8a03.netlify.app 🚀
+Check it here: https://boisterous-dango-ac8a03.netlify.app/ 🚀
 
 💡 Overview
 
